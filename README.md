@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Formulário de inscrição para o Space-X
--  [Visite o projeto online](https://github.com/Iaguin11/spaceX/)
+-  [Visite o projeto online](https://iaguin11.github.io/Formulario/)
 
 
 ---
